@@ -1,3 +1,6 @@
 ini adalah file 2 yang ditambah di lokal
 
 ini adalah baris yang diedit di remote
+
+
+ini adalah baris yang ditambah di local setelah pull dari remote
